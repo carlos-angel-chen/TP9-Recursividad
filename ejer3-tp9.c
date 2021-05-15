@@ -44,4 +44,5 @@ b.	Tiene 2 errores:
 			escrito digitos()
 		2.	No tiene caso base, caso del cual sale de la recursividad.
 
+c.	Lo hice a manopla
 */
